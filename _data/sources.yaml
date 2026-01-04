@@ -1,0 +1,85 @@
+- id: S001
+  title: Planck 2018 cosmological parameters
+  author: Planck Collaboration (2018)
+  description: Planck 2018 results. VI. Cosmological parameters.
+  url: https://arxiv.org/abs/1807.06209
+- id: S002
+  title: NASA Big Bang / cosmic timeline
+  author: NASA (Goddard/Science)
+  description: Big Bang / Universe timeline educational resources.
+  url: https://science.nasa.gov/universe/
+- id: S003
+  title: ICS Chronostratigraphic Chart
+  author: International Commission on Stratigraphy (updated Dec 2024)
+  description: International Chronostratigraphic Chart (PDF).
+  url: https://stratigraphy.org/ICSchart/ChronostratChart2024-12.pdf
+- id: S004
+  title: USGS Age of the Earth
+  author: USGS
+  description: "Geologic Time: Age of the Earth (4.54 billion years)."
+  url: https://pubs.usgs.gov/gip/geotime/age.html
+- id: S005
+  title: Science (2010) Chicxulub & K–Pg
+  author: Schulte, P. et al. (2010)
+  description: The Chicxulub Asteroid Impact and Mass Extinction at the Cretaceous–Paleogene Boundary. Science 327(5970). DOI:10.1126/science.1177265 (PDF).
+  url: https://www.science.org/doi/pdf/10.1126/science.1177265
+- id: S006
+  title: Smithsonian Human Origins
+  author: Smithsonian NMNH Human Origins Program
+  description: Research & timelines (tools, hominins, etc.).
+  url: https://humanorigins.si.edu/
+- id: S007
+  title: "Smithsonian: Oldowan tools"
+  author: Smithsonian Human Origins
+  description: Oldowan tools ~3 million years ago (Nyayanga).
+  url: https://humanorigins.si.edu/research/whats-hot-human-origins/oldowan-tools-3-million-years-ago
+- id: S008
+  title: NASA JWST early galaxies
+  author: NASA
+  description: JWST / early galaxies overview (Curious Universe episode page).
+  url: https://www.nasa.gov/podcasts/curious-universe/webb-series-finding-the-first-galaxies/
+- id: S009
+  title: UN Decolonization
+  author: United Nations
+  description: Decolonization global issue / background.
+  url: https://www.un.org/en/global-issues/decolonization
+- id: S010
+  title: Britannica Printing Press
+  author: Encyclopaedia Britannica
+  description: Printing press overview.
+  url: https://www.britannica.com/technology/printing-press
+- id: S011
+  title: Britannica Gutenberg
+  author: Encyclopaedia Britannica
+  description: Johannes Gutenberg biography.
+  url: https://www.britannica.com/biography/Johannes-Gutenberg
+- id: S012
+  title: IPCC AR6 Synthesis Report
+  author: IPCC (2023)
+  description: AR6 Synthesis Report (Longer Report PDF).
+  url: https://www.ipcc.ch/report/ar6/syr/downloads/report/IPCC_AR6_SYR_LongerReport.pdf
+- id: S013
+  title: Internet Society history
+  author: Internet Society (Leiner et al.)
+  description: A Brief History of the Internet.
+  url: https://www.internetsociety.org/internet/history-internet/brief-history-internet/
+- id: S014
+  title: CDC immunization history
+  author: CDC Museum
+  description: Immunization and Vaccination Campaigns.
+  url: https://www.cdc.gov/museum/online/story-of-cdc/immunization/index.html
+- id: S015
+  title: CDC penicillin paper
+  author: CDC (EID)
+  description: The Discovery of Penicillin—New Insights After More Than 75 Years (PDF).
+  url: https://wwwnc.cdc.gov/eid/article/23/5/pdfs/16-1556.pdf
+- id: S016
+  title: Bell Labs transistor history (PDF)
+  author: Bell System Memorial
+  description: Transistor history (PDF).
+  url: https://memorial.bellsystem.com/pdf/trans-history.pdf
+- id: S017
+  title: IEEE/ETHW Bell Labs transistor milestone
+  author: IEEE Engineering and Technology History Wiki
+  description: Invention of the First Transistor at Bell Labs (1947).
+  url: https://ethw.org/Milestones%3AInvention_of_the_First_Transistor_at_Bell_Telephone_Laboratories%2C_Inc.%2C_1947
