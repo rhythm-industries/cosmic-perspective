@@ -4,7 +4,7 @@ multi_section: true
 sticky_heading: true
 ---
 
-# The Cosmic Year
+# The Cosmic Timeline
 
 13.8 billion years compressed into a single calendar year.
 

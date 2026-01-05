@@ -18,7 +18,7 @@ To deploy your own version:
 
 Then adapt it.
 
-1. Edit `_data/cosmic_year.yaml` to add/remove events
+1. Edit `_data/cosmic_timeline.yaml` to add/remove events
 2. Modify `_data/sources.yaml` to include your sources
 3. Change the spiritual tradition in your version
 4. Rewrite the story from your perspective
