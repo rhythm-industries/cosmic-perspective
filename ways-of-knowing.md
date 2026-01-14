@@ -1,4 +1,6 @@
 ---
+title: Ways of Knowing
+description: A brief primer on proof, experience, and meaning.
 ---
 
 <section markdown="1">
@@ -9,7 +11,7 @@
 
 # Ways of Knowing
 
-Here is a a brief primer on proof, experience, and meaning.
+Here is a brief primer on proof, experience, and meaning.
 </section>
 
 <table>
